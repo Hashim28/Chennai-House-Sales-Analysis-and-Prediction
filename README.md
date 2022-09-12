@@ -12,3 +12,7 @@ The data is available above.
 **Minimum Requirements:**
 
 It is not sufficient to just fit a model - the model must be analysed to find the important factors that contribute towards the price. Also, it will be better to give a forecast range (range of permissible values) rather than a single estimate as it will help the customers to negotiate.
+
+**Profile Report :**
+
+Pandas Profile report has been done for this dataset. Profile report also included in this repository.
