@@ -16,8 +16,12 @@ It is not sufficient to just fit a model - the model must be analysed to find th
 
 ## Streamlit app deployment ##
 
-A web app is created using Streamlit Cloud for house price prediction with the ML model which gives better prediction.
+The web app was created using Streamlit Cloud for house price prediction with the best ML model. Buyers can check the house price in the areas available in the app.
+
+[Click here](https://hashim28-chennai-house-sales-analysis-and-prediction-app-8xtq1y.streamlitapp.com/) to access the web app for the house price prediction in chennai.
 
 ### App Preview ###
 
 [Chennai House price prediction Web app video.webm](https://user-images.githubusercontent.com/105122357/193905052-77ea8e58-32b7-4ccd-beb5-a499b768f75a.webm)
+
+
