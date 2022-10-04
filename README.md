@@ -14,12 +14,10 @@ The data is available above.
 It is not sufficient to just fit a model - the model must be analysed to find the important factors that contribute towards the price. Also, it will be better to give a forecast range (range of permissible values) rather than a single estimate as it will help the customers to negotiate.
 
 
-##Streamlit app deployment
+## Streamlit app deployment ##
 
 A web app is created using Streamlit Cloud for house price prediction with the ML model which gives better prediction.
 
-##App preview 
+### App Preview ###
 
-
-
-[Chennai house price prediction web app](https://user-images.githubusercontent.com/105122357/193903423-1be0c84a-ea1e-4a69-8f80-e36f94772a62.webm)
+[Chennai House price prediction Web app video.webm](https://user-images.githubusercontent.com/105122357/193905052-77ea8e58-32b7-4ccd-beb5-a499b768f75a.webm)
