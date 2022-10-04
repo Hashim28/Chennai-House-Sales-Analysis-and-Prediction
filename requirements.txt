@@ -1,0 +1,6 @@
+streamlit
+numpy
+sklearn
+xgboost==0.90
+pandas
+datetime
