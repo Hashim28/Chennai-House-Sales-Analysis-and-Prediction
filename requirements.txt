@@ -1,6 +1,0 @@
-streamlit
-numpy
-sklearn
-xgboost
-pandas
-datetime
